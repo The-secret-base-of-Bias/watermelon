@@ -1,3 +1,0 @@
-﻿  test.c
-C:\Users\邓琦\source\repos\计算三角形的面积\计算三角形的面积\test.c(11,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-  计算三角形的面积.vcxproj -> C:\Users\邓琦\source\repos\计算三角形的面积\Debug\计算三角形的面积.exe
